@@ -1,4 +1,4 @@
-package com.zycus.emailpractice.controller;
+package com.practice.emailpractice.controller;
 
 import java.io.IOException;
 import java.util.HashMap;
@@ -6,7 +6,7 @@ import java.util.Map;
 
 import javax.mail.MessagingException;
 
-import com.zycus.emailpractice.service.Emailsenderimpl;
+import com.practice.emailpractice.service.Emailsenderimpl;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
