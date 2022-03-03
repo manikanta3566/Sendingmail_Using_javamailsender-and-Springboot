@@ -1,4 +1,4 @@
-package com.zycus.emailpractice.configs;
+package com.practice.emailpractice.configs;
 import java.nio.charset.StandardCharsets;
 
 import org.springframework.context.annotation.Bean;
