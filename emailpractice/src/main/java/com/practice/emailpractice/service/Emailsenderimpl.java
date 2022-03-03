@@ -1,4 +1,4 @@
-package com.zycus.emailpractice.service;
+package com.practice.emailpractice.service;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
