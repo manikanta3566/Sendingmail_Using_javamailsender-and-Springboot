@@ -1,4 +1,4 @@
-package com.zycus.emailpractice;
+package com.practice.emailpractice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
